@@ -6851,3 +6851,33 @@ Script Stack (0 frames) :
 [2023.11.17-13.53.32:250][425]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Maps/TopDownMap' took 0.033
 [2023.11.17-13.53.32:250][425]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
 [2023.11.17-13.53.32:250][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/TopDownMap" FILE="../../../../../../Temp/ben s/AS2game/AS2BenStott/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.11.17-13.54.51:314][163]BlueprintLog: New page: Compile HumanEnemy
+[2023.11.17-13.54.51:366][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.17-13.54.51:417][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-13.54.51:455][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/HumanEnemy" FILE="../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/Main/Blueprints/HumanEnemy.uasset" SILENT=true
+[2023.11.17-13.54.51:457][163]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/HumanEnemy
+[2023.11.17-13.54.51:458][163]LogSavePackage: Moving '../../../../../../Temp/ben s/AS2game/AS2BenStott/Saved/HumanEnemyA512CC7E41B05A5409BF0F9A3ACE2858.tmp' to '../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/Main/Blueprints/HumanEnemy.uasset'
+[2023.11.17-13.54.51:463][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 6.60 sec)
+[2023.11.17-13.54.51:477][163]AssetCheck: New page: Asset Save: HumanEnemy
+[2023.11.17-13.54.51:477][163]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/HumanEnemy.HumanEnemy
+[2023.11.17-13.55.05:395][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-13.55.05:449][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/TopDownMap" FILE="../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/Main/Maps/TopDownMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.17-13.55.05:467][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.17-13.55.05:476][559]LogSavePackage: Moving output files for package: /Game/Main/Maps/TopDownMap
+[2023.11.17-13.55.05:477][559]LogSavePackage: Moving '../../../../../../Temp/ben s/AS2game/AS2BenStott/Saved/TopDownMapE0CAB65E42884621C936AA89B120FFE8.tmp' to '../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/Main/Maps/TopDownMap.umap'
+[2023.11.17-13.55.05:488][559]LogFileHelpers: Saving map 'TopDownMap' took 0.040
+[2023.11.17-13.55.05:490][559]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Main/Maps/TopDownMap/0/SZ/9ZD820T7JL0B8AC74L3ATM
+[2023.11.17-13.55.05:490][559]LogSavePackage: Moving '../../../../../../Temp/ben s/AS2game/AS2BenStott/Saved/9ZD820T7JL0B8AC74L3ATM952FB6D74A9B97AF6C1A9FB09E786CF9.tmp' to '../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/__ExternalActors__/Main/Maps/TopDownMap/0/SZ/9ZD820T7JL0B8AC74L3ATM.uasset'
+[2023.11.17-13.55.05:498][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.70 sec)
+[2023.11.17-13.55.05:503][559]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.17-13.55.05:503][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/TopDownMap.TopDownMap
+[2023.11.17-13.55.05:503][559]LogContentValidation: Display: Validating /Game/Main/Blueprints/HumanEnemy.HumanEnemy_C /Game/Main/Maps/TopDownMap.TopDownMap:PersistentLevel.HumanEnemy_C_UAID_08BFB81711F542BD01_1518884362
+[2023.11.17-13.55.18:996][979]BlueprintLog: New page: Compile HumanEnemy
+[2023.11.17-13.55.19:039][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.17-13.55.19:089][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-13.55.19:127][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/HumanEnemy" FILE="../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/Main/Blueprints/HumanEnemy.uasset" SILENT=true
+[2023.11.17-13.55.19:130][979]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/HumanEnemy
+[2023.11.17-13.55.19:130][979]LogSavePackage: Moving '../../../../../../Temp/ben s/AS2game/AS2BenStott/Saved/HumanEnemy04DFE89E4B07B1537245C6B731AFD641.tmp' to '../../../../../../Temp/ben s/AS2game/AS2BenStott/Content/Main/Blueprints/HumanEnemy.uasset'
+[2023.11.17-13.55.19:135][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 6.75 sec)
+[2023.11.17-13.55.19:141][979]AssetCheck: New page: Asset Save: HumanEnemy
+[2023.11.17-13.55.19:141][979]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/HumanEnemy.HumanEnemy
